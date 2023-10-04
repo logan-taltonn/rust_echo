@@ -1,0 +1,9 @@
+1. install netcat -> choco install netcat
+2. now you can connect to any echo server running on the internet -> skip
+    -> nc tcpbin.com 4242
+3. install local echo service to test out? -> skip
+    -> choco install socat || choco install socat --source="'https://boxstarter.org/api/v2'"
+    both don't work, but socat not needed for rust program
+    to startup local instance -> socat -v tcp-l:1234,fork exec:'/bin/cat'
+    and you can connect to it via netcat -> nc 127.0.0.1 1234
+4. ...

@@ -1,0 +1,11 @@
+/mnt/c/Users/gamer/Documents/TAMU/Projects&Etc/rust_http_1/echoservertokio/target/debug/deps/socket2-443240b9ef5a0422.rmeta: /home/logan_talton/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.5.3/src/lib.rs /home/logan_talton/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.5.3/src/sockaddr.rs /home/logan_talton/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.5.3/src/socket.rs /home/logan_talton/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.5.3/src/sockref.rs /home/logan_talton/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.5.3/src/sys/unix.rs
+
+/mnt/c/Users/gamer/Documents/TAMU/Projects&Etc/rust_http_1/echoservertokio/target/debug/deps/libsocket2-443240b9ef5a0422.rlib: /home/logan_talton/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.5.3/src/lib.rs /home/logan_talton/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.5.3/src/sockaddr.rs /home/logan_talton/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.5.3/src/socket.rs /home/logan_talton/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.5.3/src/sockref.rs /home/logan_talton/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.5.3/src/sys/unix.rs
+
+/mnt/c/Users/gamer/Documents/TAMU/Projects&Etc/rust_http_1/echoservertokio/target/debug/deps/socket2-443240b9ef5a0422.d: /home/logan_talton/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.5.3/src/lib.rs /home/logan_talton/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.5.3/src/sockaddr.rs /home/logan_talton/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.5.3/src/socket.rs /home/logan_talton/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.5.3/src/sockref.rs /home/logan_talton/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.5.3/src/sys/unix.rs
+
+/home/logan_talton/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.5.3/src/lib.rs:
+/home/logan_talton/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.5.3/src/sockaddr.rs:
+/home/logan_talton/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.5.3/src/socket.rs:
+/home/logan_talton/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.5.3/src/sockref.rs:
+/home/logan_talton/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.5.3/src/sys/unix.rs:
